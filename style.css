@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: #f4f4f4;
+    background: #000000;
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -9,7 +9,7 @@ body {
   }
   
   .todo-container {
-    background: #fff;
+    background: #fffa62;
     padding: 2rem;
     border-radius: 10px;
     width: 300px;
@@ -40,7 +40,7 @@ body {
   }
   
   button:hover {
-    background: #fff537;
+    background: #fff23a;
   }
   
   ul {
